@@ -1,0 +1,4 @@
+https:cdn.jsdelivr.net:443:.:^partitionKey=%28http%2C127.0.0.1%2C3000%29:3	0	18937	https:cdn.jsdelivr.net:443:cdn.jsdelivr.net:443::n:1636308062:h3:y:1636221646:n:^partitionKey=%28http%2C127.0.0.1%2C3000%29:|n:y:
+https:safebrowsing.googleapis.com:443:.:^firstPartyDomain=safebrowsing.86868755-6b82-4842-b301-72671a0db32e.mozilla:3	1	18937	https:safebrowsing.googleapis.com:443:safebrowsing.googleapis.com:443::n:1638813647:h3:y:1636059810:n:^firstPartyDomain=safebrowsing.86868755-6b82-4842-b301-72671a0db32e.mozilla:|n:y:
+https:fonts.gstatic.com:443:.:^partitionKey=%28http%2C127.0.0.1%2C3000%29:3	0	18937	https:fonts.gstatic.com:443:fonts.gstatic.com:443::n:1638813674:h3:y:1636221646:n:^partitionKey=%28http%2C127.0.0.1%2C3000%29:|n:y:
+https:fonts.googleapis.com:443:.:^partitionKey=%28http%2C127.0.0.1%2C3000%29:3	0	18937	https:fonts.googleapis.com:443:fonts.googleapis.com:443::n:1638813661:h3:y:1636221646:n:^partitionKey=%28http%2C127.0.0.1%2C3000%29:|n:y:
